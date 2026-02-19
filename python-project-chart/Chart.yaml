@@ -1,0 +1,7 @@
+apiVersion: v2
+name: python-project
+description: "A Helm chart for deploying the python-project container"
+# A chart can be either an "application" or a "library" chart.
+type: application
+version: 0.1.0
+appVersion: "1.0"
