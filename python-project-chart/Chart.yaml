@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v3
 name: python-project
 description: "A Helm chart for deploying the python-project containeer"
 # A chart can be either an "application" or a "library" chart.
