@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bharathchatakondu/python-web-app
+  repository: myreg2026.azurecr.io/flask-docker-app
   pullPolicy: IfNotPresent
   tag: "latest"
 
